@@ -1,4 +1,4 @@
-kind: AIchorManifest 
+kind: AIchorManifest
 apiVersion: 0.2.2
 
 builder:
