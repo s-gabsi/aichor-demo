@@ -9,10 +9,10 @@ builder:
 spec:
   operator: tf
   image: image
-  command: "python3 -u main.py --operator=tf --sleep=300 --tb-write=True"
+  command: "python3 -u main.pyy --operator=tf --sleep=300 --tb-write=True"
 
   tensorboard:
-    enabled: true
+    enabled: false
 
   types:
     Worker:
