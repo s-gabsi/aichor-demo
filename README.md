@@ -1,4 +1,4 @@
-# If you intend to try this demo project on AIchor, please fork it
+# If you intend to try this demo project on AIchor, please  fork it
 
 # Get started with AIchor
 
