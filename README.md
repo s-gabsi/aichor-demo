@@ -35,7 +35,7 @@ $ git push
 
 ### Configuration
 
-The python script executed in the repository provides 3 configurable flags:
+The python script executed in the repository provides 3  configurable flags:
 
 ```bash
 > python main.py --help
