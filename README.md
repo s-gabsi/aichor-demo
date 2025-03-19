@@ -12,7 +12,6 @@ Benefits:
 - Light and simple images to speedup the build phase.
 - Ability to test all operators within a single AIchor project (this repo).
 
-
 ## How to use it ?
 
 You can find multiple manifests samples in the `manifests` directory. If you want to try jax operator for example, all you need to do is to copy it:
