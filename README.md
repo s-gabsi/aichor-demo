@@ -30,7 +30,6 @@ $ git commit -m "exp: eriment" # commit has to start by "exp: " to trigger exper
 $ git push
 ```
 
-
 ### Configuration
 
 The python script executed in the repository provides 3 configurable flags:
