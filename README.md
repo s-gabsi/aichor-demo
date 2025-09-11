@@ -3,7 +3,7 @@
 # Get started with AIchor   
  
 This is an AIchor demo project   
-
+ 
 ## Goal
 
 This project aims to get up to speed with AIchor by going through the whole process, from setting up the VCS and project until running an experiment.
