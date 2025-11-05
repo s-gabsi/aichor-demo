@@ -7,15 +7,15 @@ builder:
   context: .
 
 spec:
-  operator: tf
+  operator: jax
   image: image
-  command: "python3 -u main.py --operator=tf --sleep=300 --tb-write=True"
+  command: "python3 -u main.py --operator=jax --sleep=300 --tb-write=True"
 
   tensorboard:
     enabled: true
 
   types:
-    Worker:
+    worker:
       count: 1
       resources:
         cpus: 1
@@ -26,4 +26,3 @@ spec:
             count: 0
             type: gpu
             product: nvidia-tesla-t4
-
