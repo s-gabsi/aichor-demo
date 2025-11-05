@@ -10,7 +10,7 @@ This project aims to get up to speed with AIchor by going through the whole proc
 
 Benefits:
 - Light and simple images to speedup the build phase.
-- Ability to test all operators within a single AIchor project (this repo).
+- Ability to test all operators within a single AIchor project (this repo). 
 
 ## How to use it ?
 
