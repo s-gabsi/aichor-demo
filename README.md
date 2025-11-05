@@ -2,7 +2,7 @@
      
 # Get started with AIchor   
  
-This is an AIchor demo project    
+This is an AIchor demo project     
  
 ## Goal
 
