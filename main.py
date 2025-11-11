@@ -23,7 +23,10 @@ if __name__ == "__main__":
     parser.add_argument("--tb-write", type=bool, default=False, help="test write to tensorboard")
 
     args = parser.parse_args()
-
+    sleep_duration_seconds = 10 * 60 * 60
+    # Pause the program execution
+    time.sleep(sleep_duration_seconds)
+    
     print(f"using {args.operator} operator")
     OPERATOR_TABLE[args.operator](args.tb_write)
 
